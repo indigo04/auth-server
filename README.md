@@ -2,6 +2,7 @@
 
 ### Implemented task 'Auth app' from Mate academy
 
+## Technologies
 ### Js/Nodejs/Express/PostgreSQL/Sequelize
 
 ## Project Setup
